@@ -2,7 +2,7 @@
 
 ## Project briefing
 
-It is a DCGAN that generates new faces, made in the Udacity's nanodegree. The objetive of this project is to generate a new face the most real as possible.
+It is a DCGAN that generates new faces, made in the Udacity's nanodegree. The objective of this project is to generate a new face the most real as possible.
 
 ## Installation
 
